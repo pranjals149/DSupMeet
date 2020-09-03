@@ -1,6 +1,6 @@
 ## Description
 
-This project is a social messaging app made by using react and firebase. The users can create categories of their interest and can have conversations in that particular category only. It includes the functionality of sending messages by uploading media, the functionality of starring your favorite category. Users can also send direct messages to registered users.
+This project is a social messaging app made by using react and firebase. The users can create categories of their interest and can have conversations in that particular category only. It includes the functionality of sending messages by uploading media, the functionality of starring your favorite category. Users can also send direct messages to registered users. It also contains a card which will display the details and the creator of the channel.
 
 
 
