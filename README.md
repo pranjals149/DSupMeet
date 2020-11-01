@@ -1,80 +1,32 @@
-## Description
+<h1 align="center">DSupMeet</h1>
+
+<p align="center"><img src="https://image.freepik.com/free-vector/chat-bubble_53876-25540.jpg" height=400 width=400 /></p>
 
 This project is a social messaging app made by using react and firebase. The users can create categories of their interest and can have conversations in that particular category only. It includes the functionality of sending messages by uploading media, the functionality of starring your favorite category, the functionality of registering and signing In of a user. Users can also send direct messages to registered users. It also contains a card which will display the details and the creator of the channel.
 
-## Setting Up
+### Setting Up
 
-1. Clone this repository
+1. Clone this repository ```git clone https://github.com/pranjals149/DSupMeet.git``` OR ```gh repo clone pranjals149/DSupMeet```
 
-2. Unzip it.
-
-3. Type `npm install` in the terminal. It will install the required node_modules.
+3. Type `npm install` in the terminal. It will read the **package.json** file and install the required node_modules.
 
 4. To run the application, type `npm start`.
 
+The application will start on port 3000. So make sure that no other application is using the port. You can view the running application by typing ```http://localhost:3000/```.
 
+### Dependencies used
 
-In the project directory, you can run:
+1. emoji-mart
+2. firebase
+3. md5
+4. mime-types
+5. moment
+6. react
+7. react-avatar-edit
+8. react-color
+9. react-dom
+10. uuid
+11. semantic-ui
 
-### `npm start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+### Working GIF
+<img src="https://github.com/pranjals149/DSupMeet/blob/master/Dsupmeet.gif?raw=true" height=500 />
