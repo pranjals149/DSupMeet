@@ -1,7 +1,5 @@
 <h1 align="center">DSupMeet</h1>
 
-<p align="center"><img src="https://image.freepik.com/free-vector/chat-bubble_53876-25540.jpg" height=400 width=400 /></p>
-
 This project is a social messaging app made by using react and firebase. The users can create categories of their interest and can have conversations in that particular category only. It includes the functionality of sending messages by uploading media, the functionality of starring your favorite category, the functionality of registering and signing In of a user. Users can also send direct messages to registered users. It also contains a card which will display the details and the creator of the channel.
 
 ### Setting Up
